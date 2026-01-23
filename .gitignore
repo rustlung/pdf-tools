@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Project runtime dirs
+/input/
+/output/
+/docs/
+
+# OS
+.DS_Store
+Thumbs.db
+
