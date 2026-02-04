@@ -15,11 +15,7 @@
 
 ## 📸 Demo
 
-Добавьте пример работы CLI:
-
-```markdown
 ![CLI Example](assets/cli_example.png)
-```
 
 ---
 
