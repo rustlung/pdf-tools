@@ -50,9 +50,11 @@ gs --version
 ```
 
 Installation
-Windows: https://ghostscript.com/releases/gsdnld.html
-Add ...\gs\<version>\bin to PATH.
-
+Windows: 
+```
+https://ghostscript.com/releases/gsdnld.html
+Добавить ...\gs\<version>\bin в PATH.
+```
 Linux: 
 ```
 sudo apt install ghostscript
